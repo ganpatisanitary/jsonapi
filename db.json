@@ -1,0 +1,114 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "image": "https://example.com/post1.jpg",
+      "likes": 256,
+      "comments": 42,
+      "shares": 12,
+      "caption": "Enjoying a beautiful day at the beach! 🌊☀️",
+      "hashtags": ["beachday", "sun", "sand", "vacation"],
+      "location": "Beach Paradise",
+      "timestamp": "2023-07-28T12:30:00Z"
+    },
+    {
+      "id": 2,
+      "image": "https://example.com/post2.jpg",
+      "likes": 187,
+      "comments": 23,
+      "shares": 9,
+      "caption": "Exploring the city streets! 🏙️🚶‍♂️",
+      "hashtags": ["citylife", "adventure", "urban"],
+      "location": "Metropolis City",
+      "timestamp": "2023-07-27T15:45:00Z"
+    },
+    {
+      "id": 3,
+      "image": "https://example.com/post3.jpg",
+      "likes": 123,
+      "comments": 18,
+      "shares": 6,
+      "caption": "Sunday brunch with friends! 🍳🥂",
+      "hashtags": ["brunchtime", "foodie", "friends"],
+      "location": "Café La Vie",
+      "timestamp": "2023-07-26T11:00:00Z"
+    },
+    {
+      "id": 4,
+      "image": "https://example.com/post4.jpg",
+      "likes": 345,
+      "comments": 54,
+      "shares": 22,
+      "caption": "Feeling adventurous on a hike! 🚶‍♀️🌳",
+      "hashtags": ["hikingadventures", "naturelover", "outdoor"],
+      "location": "Green Trails",
+      "timestamp": "2023-07-25T14:20:00Z"
+    },
+    {
+      "id": 5,
+      "image": "https://example.com/post5.jpg",
+      "likes": 432,
+      "comments": 76,
+      "shares": 35,
+      "caption": "Relaxing by the poolside! 🏊‍♂️🍹",
+      "hashtags": ["pooltime", "summervibes", "relaxation"],
+      "location": "Sunny Resorts",
+      "timestamp": "2023-07-24T16:00:00Z"
+    },
+    {
+      "id": 6,
+      "image": "https://example.com/post6.jpg",
+      "likes": 98,
+      "comments": 12,
+      "shares": 3,
+      "caption": "A day at the amusement park! 🎢🎡",
+      "hashtags": ["funfair", "rollercoaster", "thrills"],
+      "location": "Wonderland Park",
+      "timestamp": "2023-07-23T13:10:00Z"
+    },
+    {
+      "id": 7,
+      "image": "https://example.com/post7.jpg",
+      "likes": 278,
+      "comments": 37,
+      "shares": 14,
+      "caption": "Exploring ancient ruins! 🏛️🗿",
+      "hashtags": ["history", "archaeology", "travel"],
+      "location": "Ancient City",
+      "timestamp": "2023-07-22T10:45:00Z"
+    },
+    {
+      "id": 8,
+      "image": "https://example.com/post8.jpg",
+      "likes": 156,
+      "comments": 25,
+      "shares": 8,
+      "caption": "Admiring modern architecture! 🏢🏙️",
+      "hashtags": ["architecture", "skyscrapers", "urban"],
+      "location": "Modern Cityscape",
+      "timestamp": "2023-07-21T09:20:00Z"
+    },
+    {
+      "id": 9,
+      "image": "https://example.com/post9.jpg",
+      "likes": 389,
+      "comments": 64,
+      "shares": 18,
+      "caption": "Enjoying a scenic boat ride! ⛵🌅",
+      "hashtags": ["boatlife", "sunsetcruise", "serenity"],
+      "location": "Coastal Waters",
+      "timestamp": "2023-07-20T17:30:00Z"
+    },
+    {
+      "id": 10,
+      "image": "https://example.com/post10.jpg",
+      "likes": 205,
+      "comments": 31,
+      "shares": 10,
+      "caption": "Celebrating life's moments! 🎉🥳",
+      "hashtags": ["celebration", "happytimes", "memories"],
+      "location": "Joyful Events",
+      "timestamp": "2023-07-19T19:40:00Z"
+    }
+  ]
+}
