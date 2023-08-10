@@ -111,4 +111,148 @@
       "timestamp": "2023-07-19T19:40:00Z"
     }
   ]
+    "users": [
+      {
+        "id": 1,
+        "first_name": "Aarav",
+        "last_name": "Kumar",
+        "email": "aarav@example.com",
+        "phone": "9876543210"
+      },
+      {
+        "id": 2,
+        "first_name": "Aanya",
+        "last_name": "Sharma",
+        "email": "aanya@example.com",
+        "phone": "8765432109"
+      },
+      {
+        "id": 3,
+        "first_name": "Aditya",
+        "last_name": "Patel",
+        "email": "aditya@example.com",
+        "phone": "7654321098"
+      },
+      {
+        "id": 4,
+        "first_name": "Ananya",
+        "last_name": "Jain",
+        "email": "ananya@example.com",
+        "phone": "6543210987"
+      },
+      {
+        "id": 5,
+        "first_name": "Arjun",
+        "last_name": "Gupta",
+        "email": "arjun@example.com",
+        "phone": "5432109876"
+      },
+      {
+        "id": 6,
+        "first_name": "Avni",
+        "last_name": "Verma",
+        "email": "avni@example.com",
+        "phone": "4321098765"
+      },
+      {
+        "id": 7,
+        "first_name": "Dev",
+        "last_name": "Shah",
+        "email": "dev@example.com",
+        "phone": "3210987654"
+      },
+      {
+        "id": 8,
+        "first_name": "Diya",
+        "last_name": "Chopra",
+        "email": "diya@example.com",
+        "phone": "2109876543"
+      },
+      {
+        "id": 9,
+        "first_name": "Ishaan",
+        "last_name": "Malhotra",
+        "email": "ishaan@example.com",
+        "phone": "1098765432"
+      },
+      {
+        "id": 10,
+        "first_name": "Krishna",
+        "last_name": "Agarwal",
+        "email": "krishna@example.com",
+        "phone": "9876543210"
+      },
+      {
+        "id": 11,
+        "first_name": "Mira",
+        "last_name": "Singh",
+        "email": "mira@example.com",
+        "phone": "8765432109"
+      },
+      {
+        "id": 12,
+        "first_name": "Nikhil",
+        "last_name": "Yadav",
+        "email": "nikhil@example.com",
+        "phone": "7654321098"
+      },
+      {
+        "id": 13,
+        "first_name": "Riya",
+        "last_name": "Mishra",
+        "email": "riya@example.com",
+        "phone": "6543210987"
+      },
+      {
+        "id": 14,
+        "first_name": "Rohan",
+        "last_name": "Choudhary",
+        "email": "rohan@example.com",
+        "phone": "5432109876"
+      },
+      {
+        "id": 15,
+        "first_name": "Sanya",
+        "last_name": "Rajput",
+        "email": "sanya@example.com",
+        "phone": "4321098765"
+      },
+      {
+        "id": 16,
+        "first_name": "Shaurya",
+        "last_name": "Srivastava",
+        "email": "shaurya@example.com",
+        "phone": "3210987654"
+      },
+      {
+        "id": 17,
+        "first_name": "Shreya",
+        "last_name": "Goyal",
+        "email": "shreya@example.com",
+        "phone": "2109876543"
+      },
+      {
+        "id": 18,
+        "first_name": "Siddharth",
+        "last_name": "Verma",
+        "email": "siddharth@example.com",
+        "phone": "1098765432"
+      },
+      {
+        "id": 19,
+        "first_name": "Tanisha",
+        "last_name": "Sharma",
+        "email": "tanisha@example.com",
+        "phone": "9876543210"
+      },
+      {
+        "id": 20,
+        "first_name": "Vivaan",
+        "last_name": "Kumar",
+        "email": "vivaan@example.com",
+        "phone": "8765432109"
+      }
+    ]
+  
+  
 }
